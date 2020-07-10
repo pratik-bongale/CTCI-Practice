@@ -90,6 +90,9 @@ class Main {
 - Generics
   - There are many restrictions with Generics in Java
   - Refer: https://docs.oracle.com/javase/tutorial/java/generics/restrictions.html#createArrays
+  - What can you pass to methods expecting a generic type like `public void boxTest(Box<Number> b) {}`?
+    - we cannot pass an object Box<Double> / Box<Integer>, because there are not subtypes of Box class
+    - Refer: https://docs.oracle.com/javase/tutorial/java/generics/inheritance.html 
 - forEach vs iterator: 
   - In for-each loop, we can’t modify collection, it will throw a ConcurrentModificationException 
   - on the other hand with iterator we can modify collection.
