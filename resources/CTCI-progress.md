@@ -5,14 +5,16 @@
 | Palindrome                   | 2.6     | 30 mins | 6/27 | 1        | Saw solution                     |
 |                              | 2.6     | 30 mins | 7/09 | 2        | Implemented                      |
 | Intersection Node            | 2.7     | 30 mins | 6/27 | 1        | Solved                           |
-|                              | 2.7     | 30 mins | 7/09 | 2        | Implemented                      |
+|                              | 2.7     | 30 mins | 7/09 | 2        | Implemented - incorrect          |
+|                              | 2.7     | 30 mins | 7/10 | 3        | Implemented                      |
 | Loop Detection               | 2.8     | 32 mins | 6/27 | 1        | Not solved                       |
 |                              | 2.8     | 32 mins | 7/07 | 2        | Saw solution                     |
+|                              | 2.8     | 32 mins | 7/10 | 3        | Implemented                      |
 | Depth-wise LL of binary tree | 4.3     | 29 mins | 6/28 | 1        | Solved                           |
+|                              | 4.3     | 29 mins | 7/11 | 2        | Implemented                      |
 | Design a cache mechanism     | 9.5     | 30 mins | 6/28 | 1        | Not solved                       |
 |                              | 9.5     | 30 mins | 7/06 | 2        | Saw solution                     |
 | Design LRU cache             | 16.25   | 30 mins | 6/28 | 1        | Solved                           |
-
 | 3. Stacks and Queues         |         |         |      |          | 
 | Three stacks in one array    | 3.1     | 35 mins | 6/29 | 1        | Not solved
 | Min stack                    | 3.2     | 22 mins | 6/29 | 1        | Solved
